@@ -1,5 +1,5 @@
 <?php
-	//Fibonacci numbers.
+	//Fibonacci numbers with break condition
 	$number=0;
 	$num1=0;
 	$num2=1;
